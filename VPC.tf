@@ -4,7 +4,7 @@ resource "aws_vpc" "default" {
     tags = {
         Name = "DevOpsB16GitVPC"
 	Owner = "Sreeharsha Vererapalli "
-	environment = "Development"
+	environment = "DevelopmentCode"
     deployedby = "nagarajucode"
     }
 }
