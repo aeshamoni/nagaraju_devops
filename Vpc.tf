@@ -3,9 +3,9 @@ resource "aws_vpc" "default" {
     enable_dns_hostnames = true
     tags = {
         Name = "DevOpsB16Git"
-	Owner = "Sreeharsha Veerapalli"
-	environment = "Development"
-    deployedby = "nagaraju"
+	Owner = "Sreeharsha VeerapalliXXX"
+	environment = "DevelopmentYYY"
+    deployedby = "nagarajuZZZ"
     }
 }
 
