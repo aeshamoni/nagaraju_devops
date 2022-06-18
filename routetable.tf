@@ -7,6 +7,6 @@ resource "aws_route_table" "terraform-public" {
     }
 
     tags = {
-        Name = "${var.Main_Routing_Table}"
+        Name = "NagarajuRT"
     }
 }
