@@ -2,10 +2,10 @@ resource "aws_vpc" "default" {
     cidr_block = "172.19.0.0/16"
     enable_dns_hostnames = true
     tags = {
-        Name = "DevOpsB16Git"
-	Owner = "Sreeharsha Veerapalli"
-	environment = "Development"
-    deployedby = "nagaraju"
+        Name = "DevOpsB16GitVPC"
+	Owner = "Sreeharsha "
+	environment = "Developmen codet"
+    deployedby = "nagaraju code"
     }
 }
 
