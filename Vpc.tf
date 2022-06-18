@@ -14,5 +14,6 @@ resource "aws_internet_gateway" "default" {
 	tags = {
         Name = "DevOpsB16Git-IGW"
         deployedby = "nagaraju"
+        deployedby = " sreeharsha"
     }
 }
